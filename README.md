@@ -22,7 +22,10 @@
 
 ・本家のGithubをフォークする
 
-本家　　　　　　　　　　　　　　　　　　　フォーク後
+本家
+<img width="1440" alt="スクリーンショット 2021-01-15 2 03 08" src="https://user-images.githubusercontent.com/40018561/104834939-6da22f80-58e6-11eb-9fd6-a3a1970e2b75.png">
+
+フォーク後
 
 
 
