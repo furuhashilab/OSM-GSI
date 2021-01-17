@@ -7,7 +7,7 @@
 地理院地図のGithubを確認する
 →layers_txt
 
-
+<img width="346" alt="スクリーンショット 2021-01-15 1 59 22" src="https://user-images.githubusercontent.com/40018561/104834897-1d2ad200-58e6-11eb-8dd9-2db4de3326f3.png">
 
 1から7までの数字は地図の種類と一緒！！！
 
